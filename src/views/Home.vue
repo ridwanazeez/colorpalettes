@@ -3,7 +3,8 @@
   <div class="flex">
     <div class="container m-auto px-5 py-24">
       <div class="mb-10 flex w-full flex-col text-center">
-        <h1 class="mb-4 text-4xl font-bold tracking-tight text-blue-600 sm:text-6xl">Palettes</h1>
+        <h1 class="text-4xl font-bold tracking-tight text-blue-600 sm:text-6xl">Colour Palettes</h1>
+        <p>v{{ version }} | Last updated: 22/10/2023</p>
         <p class="mx-auto text-base leading-relaxed dark:text-white lg:w-2/3">
           To add a palette edit the
           <a
@@ -31,6 +32,7 @@
 </template>
 
 <script>
+import { version } from "../../package.json";
 import PaletteCard from "../components/PaletteCard.vue";
 
 export default {
@@ -40,6 +42,7 @@ export default {
   data() {
     return {
       palettes: null,
+      version: version,
     };
   },
   async mounted() {

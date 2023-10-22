@@ -4,8 +4,8 @@
       <h1 class="text-left text-xl font-medium text-gray-800 dark:text-white">
         {{ title }}
       </h1>
-      <p v-for="(tag, index) of tags" :key="index" class="mb-2 text-left text-xs dark:text-white">
-        {{ tag }}
+      <p class="mb-2 text-left text-xs dark:text-white">
+        {{ author }}
       </p>
       <div
         v-for="(colour, index) of colours"
@@ -18,12 +18,8 @@
             backgroundColor: colour.hex,
           }"
         >
-          <div class="flex items-center justify-center">
-            <p
-              class="font-bold"
-              :style="{ color: getContrastingTextColor(colour.hex) }"
-              @click="copyToClipboard(colour.hex)"
-            >
+          <div class="flex items-center justify-center" @click="copyToClipboard(colour.hex)">
+            <p class="font-bold" :style="{ color: getContrastingTextColor(colour.hex) }">
               {{ colour.hex }}
             </p>
             <svg
@@ -51,6 +47,7 @@
 export default {
   props: {
     title: { type: String, default: "" },
+    author: { type: String, default: "" },
     tags: { type: Array, default: () => [] },
     colours: { type: Array, default: () => [] },
   },

@@ -1,5 +1,14 @@
-<script setup></script>
-
-<template class="bg-gray-900">
-  <p>test</p>
+<template>
+  <Home />
 </template>
+
+<script>
+import Home from "./views/Home.vue";
+
+export default {
+  components: { Home },
+  data() {
+    return {};
+  },
+};
+</script>

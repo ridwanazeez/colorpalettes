@@ -1,5 +1,5 @@
 <template>
-  <div class="w-48 rounded-2xl bg-white p-4 py-6 shadow-lg dark:bg-gray-800">
+  <div class="w-full rounded-2xl bg-white p-4 py-6 shadow-lg dark:bg-gray-800">
     <div class="flex flex-col justify-center">
       <h1 class="text-left text-xl font-medium text-gray-800 dark:text-white">
         {{ title }}
@@ -13,7 +13,7 @@
         class="text-center text-xs dark:text-white"
       >
         <div
-          class="mt-2 rounded p-4 shadow-md transition duration-300 hover:scale-105"
+          class="mt-2 rounded-xl p-4 shadow-md transition duration-300 hover:scale-105"
           :style="{
             backgroundColor: colour.hex,
           }"

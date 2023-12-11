@@ -4,12 +4,12 @@
     <div class="container m-auto px-5 py-24">
       <div class="mb-6 flex w-full flex-col text-center">
         <h1 class="text-4xl font-bold tracking-tight text-blue-600 sm:text-6xl">Colour Palettes</h1>
-        <p class="dark:text-white">v{{ version }} | Last updated: 25/10/2023</p>
+        <p class="dark:text-white">v{{ version }} | Last updated: 10/12/2023</p>
         <p class="mx-auto hidden text-base leading-relaxed dark:text-white sm:block lg:w-2/3">
           To add a palette edit the
           <a
             class="text-blue-600 underline"
-            href="https://github.com/ridwanazeez/colourpalettes-JSON"
+            href="https://github.com/ridwanazeez/colourpalettes/blob/master/public/palettes.json"
             target="_blank"
             >JSON</a
           >
@@ -19,7 +19,7 @@
           To add a palette edit the
           <a
             class="text-blue-600 underline"
-            href="https://github.com/ridwanazeez/colourpalettes-JSON"
+            href="https://github.com/ridwanazeez/colourpalettes/blob/master/public/palettes.json"
             target="_blank"
             >JSON</a
           >
@@ -64,15 +64,17 @@ export default {
   methods: {
     async getData() {
       try {
-        const response = await fetch(
-          "https://raw.githubusercontent.com/ridwanazeez/colourpalettes-JSON/master/palettes.json",
-        );
+        const response = await fetch("/palettes.json");
+
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
+
         const data = await response.json();
+
         // Sort the data by the "name" property in alphabetical order
         data.sort((a, b) => a.name.localeCompare(b.name));
+
         this.palettes = data;
       } catch (error) {
         console.error("Error fetching data:", error);

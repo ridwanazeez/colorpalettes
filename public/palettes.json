@@ -1,0 +1,4505 @@
+[
+    {
+        "name": "360 Channel",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#323232"
+            },
+            {
+                "hex": "#E60A00"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#505050"
+            },
+            {
+                "hex": "#F5F5F5"
+            },
+            {
+                "hex": "#E64600"
+            }
+        ]
+    },
+    {
+        "name": "AmCham",
+        "tags": [
+            ""
+        ],
+        "author": "@ridwanazeez",
+        "colours": [
+            {
+                "hex": "#CF202B"
+            },
+            {
+                "hex": "#0B66B9"
+            },
+            {
+                "hex": "#202332"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Ansa Motors",
+        "tags": [
+            ""
+        ],
+        "author": "@ridwanazeez",
+        "colours": [
+            {
+                "hex": "#0453A0"
+            },
+            {
+                "hex": "#FBED1F"
+            },
+            {
+                "hex": "#FF7700"
+            },
+            {
+                "hex": "#2274A5"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#1B2845"
+            },
+            {
+                "hex": "#ED1C24"
+            }
+        ]
+    },
+    {
+        "name": "App UI",
+        "tags": [
+            ""
+        ],
+        "author": "",
+        "colours": [
+            {
+                "hex": "#2F495F"
+            },
+            {
+                "hex": "#1B96D7"
+            },
+            {
+                "hex": "#F0F1F2"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#62CBE5"
+            },
+            {
+                "hex": "#EB686D"
+            },
+            {
+                "hex": "#7E8FE3"
+            },
+            {
+                "hex": "#4AC177"
+            },
+            {
+                "hex": "#FDB957"
+            },
+            {
+                "hex": "#ED6F92"
+            }
+        ]
+    },
+    {
+        "name": "AmigaOS 1.3",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0050A0"
+            },
+            {
+                "hex": "#000020"
+            },
+            {
+                "hex": "#F08000"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Arc",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#373D48"
+            },
+            {
+                "hex": "#303641"
+            },
+            {
+                "hex": "#5294E2"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#4A5664"
+            }
+        ]
+    },
+    {
+        "name": "Arizona State University",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#8C1D40"
+            },
+            {
+                "hex": "#5C6670"
+            },
+            {
+                "hex": "#FFC627"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#94E864"
+            },
+            {
+                "hex": "#00A3E0"
+            }
+        ]
+    },
+    {
+        "name": "Atom One Dark",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#121417"
+            },
+            {
+                "hex": "#2F343D"
+            },
+            {
+                "hex": "#ABB2BF"
+            },
+            {
+                "hex": "#98C379"
+            }
+        ]
+    },
+    {
+        "name": "Aubergine",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#3F0E40"
+            },
+            {
+                "hex": "#350D36"
+            },
+            {
+                "hex": "#1164A3"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2BAC76"
+            },
+            {
+                "hex": "#CD2553"
+            }
+        ]
+    },
+    {
+        "name": "BCIT",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#003E6B"
+            },
+            {
+                "hex": "#000A52"
+            },
+            {
+                "hex": "#73AD0D"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#D37C71"
+            },
+            {
+                "hex": "#F79F66"
+            },
+            {
+                "hex": "#F15340"
+            }
+        ]
+    },
+    {
+        "name": "Bolknet",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#020623"
+            },
+            {
+                "hex": "#00B993"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#41465C"
+            },
+            {
+                "hex": "#52EB7B"
+            },
+            {
+                "hex": "#FF2154"
+            }
+        ]
+    },
+    {
+        "name": "Chargify",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2C2C26"
+            },
+            {
+                "hex": "#229725"
+            },
+            {
+                "hex": "#13C217"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#439AEA"
+            }
+        ]
+    },
+    {
+        "name": "Chicago Cubs",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0E3386"
+            },
+            {
+                "hex": "#133A94"
+            },
+            {
+                "hex": "#D12325"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#A31A1C"
+            }
+        ]
+    },
+    {
+        "name": "Cobalt2",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#193549"
+            },
+            {
+                "hex": "#FFC600"
+            },
+            {
+                "hex": "#1D425D"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#0085FF"
+            },
+            {
+                "hex": "#2CDB00"
+            }
+        ]
+    },
+    {
+        "name": "Cobalt Next",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#1B2B34"
+            },
+            {
+                "hex": "#343D46"
+            },
+            {
+                "hex": "#5FB3B3"
+            },
+            {
+                "hex": "#0B151B"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#99C794"
+            },
+            {
+                "hex": "#FAC863"
+            }
+        ]
+    },
+    {
+        "name": "Code Mash",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0C84A9"
+            },
+            {
+                "hex": "#F67F01"
+            },
+            {
+                "hex": "#94C53C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#16A1C8"
+            }
+        ]
+    },
+    {
+        "name": "Contentful",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#192532"
+            },
+            {
+                "hex": "#263545"
+            },
+            {
+                "hex": "#19CD91"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Convoy",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#3A3D3F"
+            },
+            {
+                "hex": "#D84315"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#48B8AD"
+            }
+        ]
+    },
+    {
+        "name": "Convoy",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#3A3D3F"
+            },
+            {
+                "hex": "#D84315"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#48B8AD"
+            }
+        ]
+    },
+    {
+        "name": "Craft CMS",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#333F4E"
+            },
+            {
+                "hex": "#47525F"
+            },
+            {
+                "hex": "#DA513D"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F8F8F8"
+            }
+        ]
+    },
+    {
+        "name": "Decred",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0C1E3E"
+            },
+            {
+                "hex": "#153161"
+            },
+            {
+                "hex": "#2970FF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2ED6A1"
+            }
+        ]
+    },
+    {
+        "name": "Deep Blue",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0074B2"
+            },
+            {
+                "hex": "#0083CA"
+            },
+            {
+                "hex": "#00A2FF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#00A5FF"
+            },
+            {
+                "hex": "#03EEFF"
+            },
+            {
+                "hex": "#00CCC2"
+            }
+        ]
+    },
+    {
+        "name": "Delta",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#253346"
+            },
+            {
+                "hex": "#434F61"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F4F5F7"
+            },
+            {
+                "hex": "#44DB5E"
+            },
+            {
+                "hex": "#F72951"
+            }
+        ]
+    },
+    {
+        "name": "Demerara Realty",
+        "tags": [
+            ""
+        ],
+        "author": "@ridwanazeez",
+        "colours": [
+            {
+                "hex": "#323232"
+            },
+            {
+                "hex": "#E28F26"
+            }
+        ]
+    },
+    {
+        "name": "Design Hub",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#1B549E"
+            },
+            {
+                "hex": "#19C0E7"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "DevRant",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#40415A"
+            },
+            {
+                "hex": "#54556E"
+            },
+            {
+                "hex": "#F99A66"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#D55161"
+            }
+        ]
+    },
+    {
+        "name": "Digital Media Solutions",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#117BCF"
+            },
+            {
+                "hex": "#467CA2"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2E3234"
+            },
+            {
+                "hex": "#7DB461"
+            },
+            {
+                "hex": "#CB4641"
+            }
+        ]
+    },
+    {
+        "name": "Digital Ocean",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#3686BE"
+            },
+            {
+                "hex": "#215F8B"
+            },
+            {
+                "hex": "#7DB461"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2E3234"
+            }
+        ]
+    },
+    {
+        "name": "Discord",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2E3136"
+            },
+            {
+                "hex": "#282B30"
+            },
+            {
+                "hex": "#818386"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#43B581"
+            },
+            {
+                "hex": "#7289DA"
+            }
+        ]
+    },
+    {
+        "name": "Dobby Purple",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#6236BA"
+            },
+            {
+                "hex": "#56A656"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#D0FF00"
+            },
+            {
+                "hex": "#889100"
+            }
+        ]
+    },
+    {
+        "name": "Dracula",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#282A36"
+            },
+            {
+                "hex": "#44475A"
+            },
+            {
+                "hex": "#6272A4"
+            },
+            {
+                "hex": "#8BE9FD"
+            },
+            {
+                "hex": "#50FA7B"
+            },
+            {
+                "hex": "#FFB86C"
+            },
+            {
+                "hex": "#FF79C6"
+            },
+            {
+                "hex": "#BD93F9"
+            },
+            {
+                "hex": "#FF5555"
+            },
+            {
+                "hex": "#F1FA8C"
+            }
+        ]
+    },
+    {
+        "name": "Draft US Web Design Standards",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#112E51"
+            },
+            {
+                "hex": "#205493"
+            },
+            {
+                "hex": "#0071BC"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#323A45"
+            },
+            {
+                "hex": "#4AA564"
+            },
+            {
+                "hex": "#981B1E"
+            }
+        ]
+    },
+    {
+        "name": "Dropbox",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#47525D"
+            },
+            {
+                "hex": "#7B8994"
+            },
+            {
+                "hex": "#007EE5"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "EGA",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0000AA"
+            },
+            {
+                "hex": "#00AAAA"
+            },
+            {
+                "hex": "#FF55FF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#C0C0C0"
+            },
+            {
+                "hex": "#FF00FF"
+            }
+        ]
+    },
+    {
+        "name": "EMBL",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#389196"
+            },
+            {
+                "hex": "#C3C0AB"
+            },
+            {
+                "hex": "#9FCC3B"
+            },
+            {
+                "hex": "#008CB5"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#D90F21"
+            }
+        ]
+    },
+    {
+        "name": "Facebook",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#4E69A2"
+            },
+            {
+                "hex": "#38528B"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#1FAD38"
+            },
+            {
+                "hex": "#CD2323"
+            }
+        ]
+    },
+    {
+        "name": "Florida Gators",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#014A83"
+            },
+            {
+                "hex": "#053354"
+            },
+            {
+                "hex": "#DD661E"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Folio",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#38307F"
+            },
+            {
+                "hex": "#737272"
+            },
+            {
+                "hex": "#DA6A2D"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Forest",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#033313"
+            },
+            {
+                "hex": "#077A07"
+            },
+            {
+                "hex": "#02AD44"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#076E27"
+            },
+            {
+                "hex": "#94E864"
+            },
+            {
+                "hex": "#78AF8F"
+            }
+        ]
+    },
+    {
+        "name": "Frame.ai",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#272E35"
+            },
+            {
+                "hex": "#39434D"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F26900"
+            },
+            {
+                "hex": "#ADBED1"
+            },
+            {
+                "hex": "#48B8AD"
+            },
+            {
+                "hex": "#F3B200"
+            }
+        ]
+    },
+    {
+        "name": "Freshbooks",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0D83DD"
+            },
+            {
+                "hex": "#0064BE"
+            },
+            {
+                "hex": "#9DFF00"
+            },
+            {
+                "hex": "#86C620"
+            },
+            {
+                "hex": "#648C0F"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Georgia Tech",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#00254C"
+            },
+            {
+                "hex": "#15467A"
+            },
+            {
+                "hex": "#007BFF"
+            },
+            {
+                "hex": "#C59353"
+            },
+            {
+                "hex": "#EEB211"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Github Activity Graph",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#222222"
+            },
+            {
+                "hex": "#333333"
+            },
+            {
+                "hex": "#1E6823"
+            },
+            {
+                "hex": "#44A340"
+            },
+            {
+                "hex": "#8CBE65"
+            },
+            {
+                "hex": "#D6E685"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Gitlab",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#643685"
+            },
+            {
+                "hex": "#634489"
+            },
+            {
+                "hex": "#71558F"
+            },
+            {
+                "hex": "#FC6D26"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FCA326"
+            },
+            {
+                "hex": "#E24329"
+            }
+        ]
+    },
+    {
+        "name": "Goodstuff FM",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#292D36"
+            },
+            {
+                "hex": "#333644"
+            },
+            {
+                "hex": "#DA5647"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#57AFBD"
+            }
+        ]
+    },
+    {
+        "name": "Gotham",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0A0F14"
+            },
+            {
+                "hex": "#10151B"
+            },
+            {
+                "hex": "#265360"
+            },
+            {
+                "hex": "#D4EBE9"
+            },
+            {
+                "hex": "#D26939"
+            },
+            {
+                "hex": "#9BD1CE"
+            },
+            {
+                "hex": "#EDB54B"
+            },
+            {
+                "hex": "#C33027"
+            }
+        ]
+    },
+    {
+        "name": "Guyana",
+        "tags": [
+            ""
+        ],
+        "author": "@ridwanazeez",
+        "colours": [
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#DB5461"
+            },
+            {
+                "hex": "#FFE74C"
+            },
+            {
+                "hex": "#23CE6B"
+            },
+            {
+                "hex": "#272D2D"
+            }
+        ]
+    },
+    {
+        "name": "Hoth",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#F8F8FA"
+            },
+            {
+                "hex": "#F8F8FA"
+            },
+            {
+                "hex": "#2D9EE0"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#383F45"
+            },
+            {
+                "hex": "#60D156"
+            },
+            {
+                "hex": "#DC5960"
+            },
+            {
+                "hex": "#F8F8FA"
+            },
+            {
+                "hex": "#383F45"
+            }
+        ]
+    },
+    {
+        "name": "Hotpads",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#E5613B"
+            },
+            {
+                "hex": "#4EBDA6"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#E2B708"
+            },
+            {
+                "hex": "#777777"
+            },
+            {
+                "hex": "#4EBDA6"
+            },
+            {
+                "hex": "#BE3410"
+            },
+            {
+                "hex": "#E5613B"
+            },
+            {
+                "hex": "#777777"
+            }
+        ]
+    },
+    {
+        "name": "Hummingbird",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2F343B"
+            },
+            {
+                "hex": "#FD7532"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#CBCCCE"
+            }
+        ]
+    },
+    {
+        "name": "Kill Bill",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#FDE13A"
+            },
+            {
+                "hex": "#FDE13A"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#E72D25"
+            },
+            {
+                "hex": "#FFF09E"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#E72D25"
+            },
+            {
+                "hex": "#E72D25"
+            },
+            {
+                "hex": "#FDE13A"
+            },
+            {
+                "hex": "#000000"
+            }
+        ]
+    },
+    {
+        "name": "Kkbox",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#00AED8"
+            },
+            {
+                "hex": "#00AEDF"
+            },
+            {
+                "hex": "#C5CC13"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#FBB040"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2DEBAE"
+            },
+            {
+                "hex": "#EE2B74"
+            },
+            {
+                "hex": "#00AEDF"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Laravel",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#F56262"
+            },
+            {
+                "hex": "#F56262"
+            },
+            {
+                "hex": "#424242"
+            },
+            {
+                "hex": "#F5F5F5"
+            },
+            {
+                "hex": "#ED5151"
+            },
+            {
+                "hex": "#F5F5F5"
+            },
+            {
+                "hex": "#F5F5F5"
+            },
+            {
+                "hex": "#424242"
+            },
+            {
+                "hex": "#F56262"
+            },
+            {
+                "hex": "#F5F5F5"
+            }
+        ]
+    },
+    {
+        "name": "Librato",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#262626"
+            },
+            {
+                "hex": "#555555"
+            },
+            {
+                "hex": "#0F80AA"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#555555"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#99D04A"
+            },
+            {
+                "hex": "#DCAF1B"
+            },
+            {
+                "hex": "#555555"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Lightning",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#F4F6F9"
+            },
+            {
+                "hex": "#E0E5EE"
+            },
+            {
+                "hex": "#D8EDFF"
+            },
+            {
+                "hex": "#0070D2"
+            },
+            {
+                "hex": "#16325C"
+            },
+            {
+                "hex": "#4BCA81"
+            },
+            {
+                "hex": "#C23934"
+            }
+        ]
+    },
+    {
+        "name": "Linux Mint Dark",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#353535"
+            },
+            {
+                "hex": "#2F2F2F"
+            },
+            {
+                "hex": "#8FA876"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#8FA876"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#818181"
+            },
+            {
+                "hex": "#8FA876"
+            },
+            {
+                "hex": "#2F2F2F"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Luizalabs",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0074B2"
+            },
+            {
+                "hex": "#0083CA"
+            },
+            {
+                "hex": "#B26500"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#00A5FF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FF9000"
+            },
+            {
+                "hex": "#FF9000"
+            },
+            {
+                "hex": "#0083CA"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Mac OS",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#303030"
+            },
+            {
+                "hex": "#D3DFE3"
+            },
+            {
+                "hex": "#F1F3F5"
+            },
+            {
+                "hex": "#DAD8DA"
+            },
+            {
+                "hex": "#C2E2ED"
+            },
+            {
+                "hex": "#1682FB"
+            },
+            {
+                "hex": "#34C749"
+            }
+        ]
+    },
+    {
+        "name": "Material",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#263238"
+            },
+            {
+                "hex": "#263238"
+            },
+            {
+                "hex": "#263238"
+            },
+            {
+                "hex": "#64FCDA"
+            },
+            {
+                "hex": "#546E7A"
+            },
+            {
+                "hex": "#ECEFF1"
+            },
+            {
+                "hex": "#40C4FF"
+            },
+            {
+                "hex": "#FF5252"
+            },
+            {
+                "hex": "#263238"
+            },
+            {
+                "hex": "#ECEFF1"
+            }
+        ]
+    },
+    {
+        "name": "Material Dark Indigo",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#212121"
+            },
+            {
+                "hex": "#212121"
+            },
+            {
+                "hex": "#3F51B5"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#3F51B5"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#3F51B5"
+            },
+            {
+                "hex": "#3F51B5"
+            },
+            {
+                "hex": "#212121"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Material Indigo",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#3F51B5"
+            },
+            {
+                "hex": "#303F9F"
+            },
+            {
+                "hex": "#303F9F"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#303F9F"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#B2FF59"
+            },
+            {
+                "hex": "#9FA8DA"
+            },
+            {
+                "hex": "#303F9F"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Mautic",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#6044DB"
+            },
+            {
+                "hex": "#500BA3"
+            },
+            {
+                "hex": "#F0B31A"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#997929"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F0B31A"
+            },
+            {
+                "hex": "#A92AB0"
+            },
+            {
+                "hex": "#500BA3"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Mean Green",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#278F0D"
+            },
+            {
+                "hex": "#19780C"
+            },
+            {
+                "hex": "#070708"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#19780C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F7FF00"
+            },
+            {
+                "hex": "#FF8669"
+            },
+            {
+                "hex": "#19780C"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Metafilter",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#065A8F"
+            },
+            {
+                "hex": "#267AAF"
+            },
+            {
+                "hex": "#7DB461"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2E3234"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#7DB461"
+            },
+            {
+                "hex": "#215F8B"
+            },
+            {
+                "hex": "#267AAF"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Midnight Pink",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#34495E"
+            },
+            {
+                "hex": "#16A085"
+            },
+            {
+                "hex": "#1ABC9C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#16A085"
+            },
+            {
+                "hex": "#ECF0F1"
+            },
+            {
+                "hex": "#FF2A68"
+            },
+            {
+                "hex": "#FF2A68"
+            },
+            {
+                "hex": "#16A085"
+            },
+            {
+                "hex": "#ECF0F1"
+            }
+        ]
+    },
+    {
+        "name": "Milwaukee Dark",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0D2240"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#F7A800"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Milwaukee Light",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#0D2240"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F7A800"
+            },
+            {
+                "hex": "#0D2240"
+            },
+            {
+                "hex": "#F7A800"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#0D2240"
+            }
+        ]
+    },
+    {
+        "name": "Milwaukee Mid",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#00A8E1"
+            },
+            {
+                "hex": "#0D2240"
+            },
+            {
+                "hex": "#F7A800"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#0D2240"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F7A800"
+            },
+            {
+                "hex": "#0D2240"
+            },
+            {
+                "hex": "#0D2240"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Mint",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#212420"
+            },
+            {
+                "hex": "#333632"
+            },
+            {
+                "hex": "#87CF3E"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#393D39"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#87CF3E"
+            },
+            {
+                "hex": "#68A030"
+            },
+            {
+                "hex": "#333632"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Minty",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0D7E83"
+            },
+            {
+                "hex": "#076570"
+            },
+            {
+                "hex": "#32B377"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#72D4C0"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#BEF200"
+            },
+            {
+                "hex": "#F15340"
+            },
+            {
+                "hex": "#076570"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Mockingbot",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#27364E"
+            },
+            {
+                "hex": "#1A2535"
+            },
+            {
+                "hex": "#F55D54"
+            },
+            {
+                "hex": "#F2F2F4"
+            },
+            {
+                "hex": "#1A2535"
+            },
+            {
+                "hex": "#E6E6E9"
+            },
+            {
+                "hex": "#F6756D"
+            },
+            {
+                "hex": "#F55D54"
+            },
+            {
+                "hex": "#1A2535"
+            },
+            {
+                "hex": "#E6E6E9"
+            }
+        ]
+    },
+    {
+        "name": "Mondrian",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFC806"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#FD0B00"
+            },
+            {
+                "hex": "#1F57E7"
+            }
+        ]
+    },
+    {
+        "name": "Monokai",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#222222"
+            },
+            {
+                "hex": "#2F2F2F"
+            },
+            {
+                "hex": "#F92772"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#A6E22D"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#66D9EF"
+            },
+            {
+                "hex": "#BE84F2"
+            },
+            {
+                "hex": "#2F2F2F"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Monument",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0D7E83"
+            },
+            {
+                "hex": "#076570"
+            },
+            {
+                "hex": "#F79F66"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#D37C71"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F79F66"
+            },
+            {
+                "hex": "#F15340"
+            },
+            {
+                "hex": "#076570"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Mood Indigo",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F8F8FA"
+            },
+            {
+                "hex": "#E0E7FF"
+            },
+            {
+                "hex": "#2153FF"
+            },
+            {
+                "hex": "#001A5E"
+            }
+        ]
+    },
+    {
+        "name": "Myplanet",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0D7E83"
+            },
+            {
+                "hex": "#076570"
+            },
+            {
+                "hex": "#F79F66"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#D37C71"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#F79F66"
+            },
+            {
+                "hex": "#F15340"
+            },
+            {
+                "hex": "#076570"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "N64",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#319B44"
+            },
+            {
+                "hex": "#0047B3"
+            },
+            {
+                "hex": "#DB3236"
+            },
+            {
+                "hex": "#FFFF00"
+            },
+            {
+                "hex": "#0047B3"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFFF00"
+            },
+            {
+                "hex": "#DB3236"
+            },
+            {
+                "hex": "#0047B3"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Nitro Marketing Digital",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#444444"
+            },
+            {
+                "hex": "#157477"
+            },
+            {
+                "hex": "#E4E4E4"
+            },
+            {
+                "hex": "#666666"
+            },
+            {
+                "hex": "#888888"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#5AE043"
+            },
+            {
+                "hex": "#1DE2E7"
+            },
+            {
+                "hex": "#157477"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Nitronews",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#284589"
+            },
+            {
+                "hex": "#3464D4"
+            },
+            {
+                "hex": "#FF6600"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#445970"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#00C19B"
+            },
+            {
+                "hex": "#FF6600"
+            },
+            {
+                "hex": "#3464D4"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Nord",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2E3440"
+            },
+            {
+                "hex": "#3B4252"
+            },
+            {
+                "hex": "#88C0D0"
+            },
+            {
+                "hex": "#2E3440"
+            },
+            {
+                "hex": "#3B4252"
+            },
+            {
+                "hex": "#D8DEE9"
+            },
+            {
+                "hex": "#A3BE8C"
+            },
+            {
+                "hex": "#81A1C1"
+            },
+            {
+                "hex": "#3B4252"
+            },
+            {
+                "hex": "#D8DEE9"
+            }
+        ]
+    },
+    {
+        "name": "Ochin",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#303E4D"
+            },
+            {
+                "hex": "#2C3849"
+            },
+            {
+                "hex": "#6698C8"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#4A5664"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#94E864"
+            },
+            {
+                "hex": "#78AF8F"
+            },
+            {
+                "hex": "#2C3849"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "One Dark",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#21252B"
+            },
+            {
+                "hex": "#272C33"
+            },
+            {
+                "hex": "#31363F"
+            },
+            {
+                "hex": "#D7DAE0"
+            },
+            {
+                "hex": "#272C33"
+            },
+            {
+                "hex": "#D7DAE0"
+            },
+            {
+                "hex": "#20B684"
+            },
+            {
+                "hex": "#528BFF"
+            },
+            {
+                "hex": "#272C33"
+            },
+            {
+                "hex": "#D7DAE0"
+            }
+        ]
+    },
+    {
+        "name": "Opendata.cz",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#057FA5"
+            },
+            {
+                "hex": "#034F75"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#057FA5"
+            },
+            {
+                "hex": "#034F75"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#99D04A"
+            },
+            {
+                "hex": "#FF9800"
+            },
+            {
+                "hex": "#034F75"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Pastel",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#B19CD9"
+            },
+            {
+                "hex": "#89CFF0"
+            },
+            {
+                "hex": "#FEC8D8"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#89CFF0"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#8F6DB0"
+            },
+            {
+                "hex": "#89CFF0"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Peter Sellers",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0D2D4F"
+            },
+            {
+                "hex": "#0A2440"
+            },
+            {
+                "hex": "#639DD4"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#3E6796"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#94E864"
+            },
+            {
+                "hex": "#5990CF"
+            },
+            {
+                "hex": "#0A2440"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Phone Box",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#003D67"
+            },
+            {
+                "hex": "#003D67"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#003D67"
+            },
+            {
+                "hex": "#00548C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#0099FF"
+            },
+            {
+                "hex": "#006752"
+            },
+            {
+                "hex": "#003D67"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "PHP",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#8892BF"
+            },
+            {
+                "hex": "#4F5B93"
+            },
+            {
+                "hex": "#4F5B93"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#CBCCD4"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#4F5B93"
+            },
+            {
+                "hex": "#F15340"
+            },
+            {
+                "hex": "#4F5B93"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Pinnaca",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#3396D3"
+            },
+            {
+                "hex": "#4C4C4C"
+            },
+            {
+                "hex": "#D43F27"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#3E313C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#253C4E"
+            },
+            {
+                "hex": "#4C4C4C"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Playstation",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#173F85"
+            },
+            {
+                "hex": "#0072CE"
+            },
+            {
+                "hex": "#0072CE"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#0072CE"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFDA00"
+            },
+            {
+                "hex": "#FFDA00"
+            },
+            {
+                "hex": "#0072CE"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Playstation Classic",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#B1B3B3"
+            },
+            {
+                "hex": "#63666A"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#B1B3B3"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#0072CE"
+            },
+            {
+                "hex": "#0072CE"
+            },
+            {
+                "hex": "#B1B3B3"
+            },
+            {
+                "hex": "#000000"
+            }
+        ]
+    },
+    {
+        "name": "Play.DJ",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#1C1F25"
+            },
+            {
+                "hex": "#282C35"
+            },
+            {
+                "hex": "#925AFF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#925AFF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#89BE6C"
+            },
+            {
+                "hex": "#DB182E"
+            },
+            {
+                "hex": "#282C35"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Polygon",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#C10048"
+            },
+            {
+                "hex": "#920A3D"
+            },
+            {
+                "hex": "#2E0002"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#610A29"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#610A29"
+            },
+            {
+                "hex": "#920A3D"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Polymer",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#1F2036"
+            },
+            {
+                "hex": "#7986CB"
+            },
+            {
+                "hex": "#FE528C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#606BA2"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2DEBAE"
+            },
+            {
+                "hex": "#FE528C"
+            },
+            {
+                "hex": "#7986CB"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Python",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#306998"
+            },
+            {
+                "hex": "#FFD43B"
+            },
+            {
+                "hex": "#FFD43B"
+            },
+            {
+                "hex": "#7F7F7F"
+            },
+            {
+                "hex": "#5A9FD4"
+            },
+            {
+                "hex": "#F4F4F4"
+            },
+            {
+                "hex": "#FFE873"
+            },
+            {
+                "hex": "#FFD43B"
+            },
+            {
+                "hex": "#FFD43B"
+            },
+            {
+                "hex": "#F4F4F4"
+            }
+        ]
+    },
+    {
+        "name": "Redaxo",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#324050"
+            },
+            {
+                "hex": "#283542"
+            },
+            {
+                "hex": "#4B9AD9"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#283542"
+            },
+            {
+                "hex": "#CFD8E5"
+            },
+            {
+                "hex": "#3BB594"
+            },
+            {
+                "hex": "#EB4D5C"
+            },
+            {
+                "hex": "#283542"
+            },
+            {
+                "hex": "#CFD8E5"
+            }
+        ]
+    },
+    {
+        "name": "Reddit",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#F7F7F7"
+            },
+            {
+                "hex": "#CEE3F8"
+            },
+            {
+                "hex": "#B3CCE6"
+            },
+            {
+                "hex": "#FF3000"
+            },
+            {
+                "hex": "#B3CCE6"
+            },
+            {
+                "hex": "#336699"
+            },
+            {
+                "hex": "#38978D"
+            },
+            {
+                "hex": "#FF7500"
+            },
+            {
+                "hex": "#CEE3F8"
+            },
+            {
+                "hex": "#336699"
+            }
+        ]
+    },
+    {
+        "name": "Retro Monochrome Terminal",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#006600"
+            },
+            {
+                "hex": "#00FF00"
+            },
+            {
+                "hex": "#00FF00"
+            },
+            {
+                "hex": "#00FF00"
+            },
+            {
+                "hex": "#FF0000"
+            },
+            {
+                "hex": "#FF0000"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#00FF00"
+            }
+        ]
+    },
+    {
+        "name": "Seat Geek",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0B62CD"
+            },
+            {
+                "hex": "#1673E6"
+            },
+            {
+                "hex": "#78D30A"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#1673E6"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#78D30A"
+            },
+            {
+                "hex": "#D34C4C"
+            },
+            {
+                "hex": "#1673E6"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Skype",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#F0F4F8"
+            },
+            {
+                "hex": "#39B1DF"
+            },
+            {
+                "hex": "#C7EDFC"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#F0F4F8"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#7FBA00"
+            },
+            {
+                "hex": "#FF8C00"
+            },
+            {
+                "hex": "#39B1DF"
+            },
+            {
+                "hex": "#000000"
+            }
+        ]
+    },
+    {
+        "name": "Slack",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#573D82"
+            },
+            {
+                "hex": "#453068"
+            },
+            {
+                "hex": "#3FBA91"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#453068"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#3FBA91"
+            },
+            {
+                "hex": "#FF3E88"
+            },
+            {
+                "hex": "#453068"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Smooch.io",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#373352"
+            },
+            {
+                "hex": "#1A123B"
+            },
+            {
+                "hex": "#A347B7"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#1A123B"
+            },
+            {
+                "hex": "#D6E0FF"
+            },
+            {
+                "hex": "#D15FEA"
+            },
+            {
+                "hex": "#A347B7"
+            },
+            {
+                "hex": "#1A123B"
+            },
+            {
+                "hex": "#D6E0FF"
+            }
+        ]
+    },
+    {
+        "name": "Snazzy",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#282A36"
+            },
+            {
+                "hex": "#2D2D2D"
+            },
+            {
+                "hex": "#FF5C57"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#515151"
+            },
+            {
+                "hex": "#DEE1DB"
+            },
+            {
+                "hex": "#5AF78E"
+            },
+            {
+                "hex": "#57C7FF"
+            },
+            {
+                "hex": "#2D2D2D"
+            },
+            {
+                "hex": "#DEE1DB"
+            }
+        ]
+    },
+    {
+        "name": "Social Tables Blue",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#494949"
+            },
+            {
+                "hex": "#65A0D6"
+            },
+            {
+                "hex": "#49C6B7"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#898B8F"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#9ECD75"
+            },
+            {
+                "hex": "#E6615D"
+            },
+            {
+                "hex": "#65A0D6"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Socialsign.in",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#112539"
+            },
+            {
+                "hex": "#112539"
+            },
+            {
+                "hex": "#2DA89C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#004365"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2DEBAE"
+            },
+            {
+                "hex": "#2DEBAE"
+            },
+            {
+                "hex": "#112539"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Solarized Dark",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#073642"
+            },
+            {
+                "hex": "#002B36"
+            },
+            {
+                "hex": "#B58900"
+            },
+            {
+                "hex": "#FDF6E3"
+            },
+            {
+                "hex": "#CB4B16"
+            },
+            {
+                "hex": "#FDF6E3"
+            },
+            {
+                "hex": "#2AA198"
+            },
+            {
+                "hex": "#DC322F"
+            },
+            {
+                "hex": "#002B36"
+            },
+            {
+                "hex": "#FDF6E3"
+            }
+        ]
+    },
+    {
+        "name": "Son of Obsidian",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#293134"
+            },
+            {
+                "hex": "#2F393C"
+            },
+            {
+                "hex": "#293134"
+            },
+            {
+                "hex": "#93C763"
+            },
+            {
+                "hex": "#2F393C"
+            },
+            {
+                "hex": "#81969A"
+            },
+            {
+                "hex": "#EC7600"
+            },
+            {
+                "hex": "#EC7600"
+            },
+            {
+                "hex": "#2F393C"
+            },
+            {
+                "hex": "#81969A"
+            }
+        ]
+    },
+    {
+        "name": "Space Gray",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#303E4D"
+            },
+            {
+                "hex": "#2C3849"
+            },
+            {
+                "hex": "#B04C58"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#4A5664"
+            },
+            {
+                "hex": "#B3B8C4"
+            },
+            {
+                "hex": "#94E864"
+            },
+            {
+                "hex": "#78AF8F"
+            },
+            {
+                "hex": "#2C3849"
+            },
+            {
+                "hex": "#B3B8C4"
+            }
+        ]
+    },
+    {
+        "name": "Spotify",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#1A1919"
+            },
+            {
+                "hex": "#1A1919"
+            },
+            {
+                "hex": "#EDEBE6"
+            },
+            {
+                "hex": "#7DBA4A"
+            },
+            {
+                "hex": "#4F4D4D"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#7DBA4A"
+            },
+            {
+                "hex": "#7DBA4A"
+            },
+            {
+                "hex": "#1A1919"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Sqool by Unowhy",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#003554"
+            },
+            {
+                "hex": "#073C57"
+            },
+            {
+                "hex": "#006494"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#006494"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#00A6FB"
+            },
+            {
+                "hex": "#EB4D5C"
+            },
+            {
+                "hex": "#073C57"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0A6242"
+            },
+            {
+                "hex": "#0A6242"
+            },
+            {
+                "hex": "#3D3935"
+            },
+            {
+                "hex": "#BC7E3B"
+            },
+            {
+                "hex": "#BC7E3B"
+            },
+            {
+                "hex": "#F7F7F7"
+            },
+            {
+                "hex": "#3D3935"
+            },
+            {
+                "hex": "#3D3935"
+            },
+            {
+                "hex": "#0A6242"
+            },
+            {
+                "hex": "#F7F7F7"
+            }
+        ]
+    },
+    {
+        "name": "Starfield",
+        "tags": [
+            ""
+        ],
+        "author": "@ridwanazeez",
+        "colours": [
+            {
+                "hex": "#1B2D4F"
+            },
+            {
+                "hex": "#2B4B7A"
+            },
+            {
+                "hex": "#49668F"
+            },
+            {
+                "hex": "#DDA846"
+            },
+            {
+                "hex": "#E26133"
+            },
+            {
+                "hex": "#C81E33"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Summer Craze",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#B300B3"
+            },
+            {
+                "hex": "#23A61C"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#C400FF"
+            },
+            {
+                "hex": "#FF2EFF"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#F7FF00"
+            },
+            {
+                "hex": "#F7FF00"
+            },
+            {
+                "hex": "#23A61C"
+            },
+            {
+                "hex": "#000000"
+            }
+        ]
+    },
+    {
+        "name": "Symfony",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#7ABA20"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#7ABA20"
+            },
+            {
+                "hex": "#0088CC"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Team Pizza",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2C2B32"
+            },
+            {
+                "hex": "#534C55"
+            },
+            {
+                "hex": "#FFB24C"
+            },
+            {
+                "hex": "#2C2B32"
+            },
+            {
+                "hex": "#534C55"
+            },
+            {
+                "hex": "#EEEDEF"
+            },
+            {
+                "hex": "#B8E986"
+            },
+            {
+                "hex": "#FF884E"
+            },
+            {
+                "hex": "#534C55"
+            },
+            {
+                "hex": "#EEEDEF"
+            }
+        ]
+    },
+    {
+        "name": "Terminal",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#1A1D21"
+            },
+            {
+                "hex": "#1A2B23"
+            },
+            {
+                "hex": "#4EE077"
+            },
+            {
+                "hex": "#1C913D"
+            }
+        ]
+    },
+    {
+        "name": "The Changelog",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2B2D2D"
+            },
+            {
+                "hex": "#4A4C4D"
+            },
+            {
+                "hex": "#428BCA"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#428BCA"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#67D044"
+            },
+            {
+                "hex": "#DE495B"
+            },
+            {
+                "hex": "#4A4C4D"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Thinkific",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#042E47"
+            },
+            {
+                "hex": "#072333"
+            },
+            {
+                "hex": "#072333"
+            },
+            {
+                "hex": "#1B9EEA"
+            },
+            {
+                "hex": "#072333"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#1B9EEA"
+            },
+            {
+                "hex": "#1B9EEA"
+            },
+            {
+                "hex": "#072333"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Thoroughcare",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#245B61"
+            },
+            {
+                "hex": "#245B61"
+            },
+            {
+                "hex": "#72D4C0"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#B0C1C4"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#BEF200"
+            },
+            {
+                "hex": "#F15340"
+            },
+            {
+                "hex": "#245B61"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Trello",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#0079BF"
+            },
+            {
+                "hex": "#026AA7"
+            },
+            {
+                "hex": "#5BA4CF"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#026AA7"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#61BD4F"
+            },
+            {
+                "hex": "#EB5A46"
+            },
+            {
+                "hex": "#026AA7"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Tron",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#1EB8EB"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#424242"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#1EB8EB"
+            },
+            {
+                "hex": "#1EB8EB"
+            },
+            {
+                "hex": "#000000"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Trulia",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#37B449"
+            },
+            {
+                "hex": "#2D9A48"
+            },
+            {
+                "hex": "#1B5E48"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#2D9A48"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#1B5E48"
+            },
+            {
+                "hex": "#EB4D5C"
+            },
+            {
+                "hex": "#2D9A48"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Twitch",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#7D5BBE"
+            },
+            {
+                "hex": "#6441A4"
+            },
+            {
+                "hex": "#6441A4"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#6441A4"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#6441A4"
+            },
+            {
+                "hex": "#6441A4"
+            },
+            {
+                "hex": "#6441A4"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Twitter",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#55ACEE"
+            },
+            {
+                "hex": "#55ACEE"
+            },
+            {
+                "hex": "#E1E8ED"
+            },
+            {
+                "hex": "#292F33"
+            },
+            {
+                "hex": "#ADDCFF"
+            },
+            {
+                "hex": "#F5F8FA"
+            },
+            {
+                "hex": "#E1E8ED"
+            },
+            {
+                "hex": "#E1E8ED"
+            },
+            {
+                "hex": "#55ACEE"
+            },
+            {
+                "hex": "#F5F8FA"
+            }
+        ]
+    },
+    {
+        "name": "Uber Dark",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#151525"
+            },
+            {
+                "hex": "#3A3A48"
+            },
+            {
+                "hex": "#1EACC7"
+            },
+            {
+                "hex": "#F2F2F4"
+            },
+            {
+                "hex": "#3A3A48"
+            },
+            {
+                "hex": "#E6E6E9"
+            },
+            {
+                "hex": "#79D6E6"
+            },
+            {
+                "hex": "#4CC8DE"
+            },
+            {
+                "hex": "#3A3A48"
+            },
+            {
+                "hex": "#E6E6E9"
+            }
+        ]
+    },
+    {
+        "name": "Ultraviolet",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#F5F5F5"
+            },
+            {
+                "hex": "#F0F0F0"
+            },
+            {
+                "hex": "#6715EB"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#E8E8E8"
+            },
+            {
+                "hex": "#1A1A1A"
+            },
+            {
+                "hex": "#CD2553"
+            }
+        ]
+    },
+    {
+        "name": "Visualcomposer",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2E4F7E"
+            },
+            {
+                "hex": "#2C3849"
+            },
+            {
+                "hex": "#203251"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#456494"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#A6C056"
+            },
+            {
+                "hex": "#E9AE4C"
+            },
+            {
+                "hex": "#2C3849"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Vue.js",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#34495E"
+            },
+            {
+                "hex": "#42B983"
+            },
+            {
+                "hex": "#42B983"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#42B983"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#FFD41D"
+            },
+            {
+                "hex": "#42B983"
+            },
+            {
+                "hex": "#42B983"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "WhatsApp",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#075E54"
+            },
+            {
+                "hex": "#128C7E"
+            },
+            {
+                "hex": "#25D366"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#DCF8C6"
+            },
+            {
+                "hex": "#34B7F1"
+            },
+            {
+                "hex": "#ECE5DD"
+            },
+            {
+                "hex": "#455A64"
+            }
+        ]
+    },
+    {
+        "name": "Wild Cherry",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#2B1F32"
+            },
+            {
+                "hex": "#FFB86C"
+            },
+            {
+                "hex": "#E15D97"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#4A1386"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#35BA66"
+            },
+            {
+                "hex": "#0AACC5"
+            },
+            {
+                "hex": "#FFB86C"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "Willowtree Dark",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#308390"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#40C1BB"
+            },
+            {
+                "hex": "#F0F0F4"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#DB6668"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#F0F0F4"
+            }
+        ]
+    },
+    {
+        "name": "Willowtree Light",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#F9F9F9"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#094074"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#308390"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#DB6668"
+            },
+            {
+                "hex": "#1BD9C4"
+            },
+            {
+                "hex": "#308390"
+            }
+        ]
+    },
+    {
+        "name": "Windows 95",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#327C7E"
+            },
+            {
+                "hex": "#001F7E"
+            },
+            {
+                "hex": "#001F7E"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#001F7E"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#C0C0C0"
+            },
+            {
+                "hex": "#C0C0C0"
+            },
+            {
+                "hex": "#001F7E"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    },
+    {
+        "name": "WordPress",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#23282D"
+            },
+            {
+                "hex": "#191E23"
+            },
+            {
+                "hex": "#0073AA"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#111111"
+            },
+            {
+                "hex": "#EEEEEE"
+            },
+            {
+                "hex": "#46B450"
+            },
+            {
+                "hex": "#D54E21"
+            },
+            {
+                "hex": "#191E23"
+            },
+            {
+                "hex": "#EEEEEE"
+            }
+        ]
+    },
+    {
+        "name": "Zillow",
+        "tags": [
+            ""
+        ],
+        "author": "https://slackthemes.net/",
+        "colours": [
+            {
+                "hex": "#235CE2"
+            },
+            {
+                "hex": "#6BB700"
+            },
+            {
+                "hex": "#6BB700"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#262626"
+            },
+            {
+                "hex": "#FFFFFF"
+            },
+            {
+                "hex": "#6BB700"
+            },
+            {
+                "hex": "#EB4D5C"
+            },
+            {
+                "hex": "#6BB700"
+            },
+            {
+                "hex": "#FFFFFF"
+            }
+        ]
+    }
+]

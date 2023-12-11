@@ -11,4 +11,3 @@ Also, no hate to the dev of Coolors, but I'm like broke/cheap and I try to avoid
 
 ## Built with:
 - [VueJS 3](https://vuejs.org/)
-- 

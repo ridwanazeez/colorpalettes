@@ -64,7 +64,7 @@ export default {
   methods: {
     async getData() {
       try {
-        const response = await fetch("/palettes.json");
+        const response = await fetch("https://raw.githubusercontent.com/ridwanazeez/colourpalettes/master/public/palettes.json");
 
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);

@@ -4,7 +4,7 @@
     <div class="container m-auto px-5 py-24">
       <div class="mb-6 flex w-full flex-col text-center">
         <h1 class="text-4xl font-bold tracking-tight text-blue-600 sm:text-6xl">Colour Palettes</h1>
-        <p class="dark:text-white">v{{ version }} | Last updated: 10/12/2023</p>
+        <p class="dark:text-white">v{{ version }} | Last updated: 18/05/2024</p>
         <p class="mx-auto hidden text-base leading-relaxed dark:text-white sm:block lg:w-2/3">
           To add a palette edit the
           <a
